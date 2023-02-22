@@ -1,0 +1,21 @@
+.LG{
+    border: 1px solid black;
+    width: 200px;
+    height: 150px;
+    background-image: linear-gradient(red, blue);
+    background-image:linear-gradient(to right, red, blue);
+    background-image:linear-gradient(to left, red, blue);
+    background-image:linear-gradient(to bottom, red, blue)
+}
+
+.rg{
+
+    margin: 10px;
+    border: 1px solid black;    
+    width: 200px;
+    height: 150px;
+    background-image: radial-gradient(green, yellow, pink);
+    background-image: radial-gradient(green  5%, blue 20%, white 35% );
+    
+    
+}
