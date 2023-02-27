@@ -1,0 +1,1 @@
+console.log('Aj hum Object in java script padhenge');
