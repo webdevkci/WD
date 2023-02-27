@@ -53,6 +53,47 @@ let laptop = {
 }; 
 
 
+// let userid = userid
+
+// Login (){
+//     if(userid===({$userid}) && (password === ({$pass})) && (usertype===({$admin})){
+//         console.log('Login Successfull')
+//     }
+//     else
+//     {
+//         console.log('incorrect password');
+//     }
+// }
+
+//object litral
+a= {}; 
+
+//blank object
+let aA = {
+
+};
+
+//object 
+const Ractangle = {
+    //property
+    lengh:1,
+    bredth:2,
+    
+    //behaviour 
+    draw: function() {
+        console.log('Ractangle created');
+    }
+
+}
 
 
+// behaviour
+//function
+// draw(){
+//     console.log('Ractangle created');
+// }
 
+let obj = {
+    name: ashif,
+    id: 86891264,
+}
