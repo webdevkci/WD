@@ -74,9 +74,9 @@ let aA = {
 };
 
 //object 
-const Ractangle = {
+const Ractangle = [
     //property
-    lengh:1,
+    lengh:1,``
     bredth:2,
     
     //behaviour 
@@ -84,7 +84,7 @@ const Ractangle = {
         console.log('Ractangle created');
     }
 
-}
+]
 
 
 // behaviour

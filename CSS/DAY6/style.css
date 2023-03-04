@@ -1,0 +1,11 @@
+.CG{
+    background-image:conic-gradient(from 180deg, blue,yellow, green);
+    height: 300px;
+    width: 150px;
+    margin: 20px
+}
+
+H1{
+    text-shadow: 3px 3px blue;
+    /* text-shadow: 6px 6px 6px green; */
+}
